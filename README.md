@@ -1,6 +1,5 @@
 # easy_invoice
-A simple Python based invoicing script
-
+A simple Python based invoicing software/script
 
 Place "itemlist.txt" and "main.py" in the same folder.
 
